@@ -1,5 +1,5 @@
 {
-  "name": "ffmpeg-binaries",
+  "name": "@sh-dave/ffmpeg-binaries",
   "version": "4.0.0",
   "description": "ffmpeg binaries",
   "scripts": {
